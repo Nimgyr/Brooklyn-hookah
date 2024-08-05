@@ -105,6 +105,9 @@ body {
     .container {
         max-width: 90%;
     }
+    body {
+        background-color: #000;
+    }
 }
 .nav__container {
     justify-content: center;
